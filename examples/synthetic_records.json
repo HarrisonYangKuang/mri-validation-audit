@@ -1,0 +1,12 @@
+[
+  {"record_id": "synthetic-A", "report": "Toy report alpha.", "scanner": {"device_family": "toy-device-1", "protocol_family": "toy-protocol"}},
+  {"record_id": "synthetic-B", "report": "  TOY REPORT alpha.  ", "scanner": {"device_family": "toy-device-2", "protocol_family": "toy-protocol"}},
+  {"record_id": "synthetic-C", "report": "Toy report beta.", "scanner": {"protocol_family": "TOY-PROTOCOL", "device_family": "TOY-DEVICE-2"}},
+  {"record_id": "synthetic-D", "report": "Toy report gamma.", "scanner": {"device_family": "toy-device-3"}},
+  {"record_id": "synthetic-E", "report": "Toy report gamma.", "scanner": {"device_family": "toy-device-4"}},
+  {"record_id": "synthetic-F", "report": "Toy report delta.", "scanner": {"device_family": "toy-device-5"}},
+  {"record_id": "synthetic-G", "report": "Toy report epsilon.", "scanner": {"device_family": "toy-device-5"}},
+  {"record_id": "synthetic-H", "report": null, "scanner": {}},
+  {"record_id": "synthetic-I", "report": "   ", "scanner": {"device_family": null}},
+  {"record_id": "synthetic-J", "report": "Toy report zeta.", "scanner": {"device_family": "toy-device-6"}}
+]

@@ -1,0 +1,38 @@
+{
+  "component_size_histogram": {
+    "1": 3,
+    "2": 2,
+    "3": 1
+  },
+  "components_crossing_folds": 0,
+  "connected_components": 6,
+  "folds": [
+    {
+      "fold": 0,
+      "training_records": 6,
+      "validation_components": 2,
+      "validation_records": 4
+    },
+    {
+      "fold": 1,
+      "training_records": 7,
+      "validation_components": 2,
+      "validation_records": 3
+    },
+    {
+      "fold": 2,
+      "training_records": 7,
+      "validation_components": 2,
+      "validation_records": 3
+    }
+  ],
+  "largest_component_records": 3,
+  "missing_reports": 2,
+  "missing_scanners": 2,
+  "records": 10,
+  "report_groups": 6,
+  "report_groups_crossing_folds": 0,
+  "scanner_groups": 6,
+  "scanner_groups_crossing_folds": 0
+}
+PASS: no known report/scanner component crosses validation folds.
